@@ -2,7 +2,7 @@ package CmdLineRead;
 
 import org.testng.annotations.Test;
 
-public class CmdReadData {
+public class CmdReadDataTest {
 	@Test
 	public void read()
 	{
